@@ -1,6 +1,6 @@
 using System.Runtime.CompilerServices;
 
-namespace UnityEngineAssets.Unsafe {
+namespace Extevious.Converters.Unsafe {
 	public static unsafe class BinaryConverter {
 		[MethodImpl(MethodImplOptions.AggressiveInlining)]
 		public static byte[] ToBytes<T> (T value) where T : unmanaged {
