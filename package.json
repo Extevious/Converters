@@ -1,0 +1,8 @@
+{
+	"name": "com.extevious.converters",
+	"version": "1.0.0",
+	"dependencies": {},
+	"description": "Type converters and serializers.",
+	"displayName": "Converters",
+	"type": "module"
+}
